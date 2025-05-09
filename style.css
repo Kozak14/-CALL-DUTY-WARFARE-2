@@ -1,0 +1,108 @@
+html {
+  background-color: saddlebrown;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(42, 77, 7);
+}
+
+p {
+    font-size: 25px;
+    color: saddlebrown;
+}
+
+.UO {
+    height: 150px;
+    border: 20px solid saddlebrown;
+}
+
+main {
+    background-color: goldenrod;
+}
+
+footer {
+    background-color: burlywood;
+}
+
+dav {
+    background-color: saddlebrown;
+    border-right: 2000px solid saddlebrown;
+    border-top: 8px solid saddlebrown ;
+    border-bottom: 25px solid saddlebrown ;
+}
+
+f {
+    font-size: 25px;
+    color: saddlebrown;
+    background-color: black;
+    border-radius: 20px;
+}
+
+img {
+  margin: 10px auto;
+  display: block;
+}
+
+.Uk {
+position: absolute;
+  text-decoration:none;
+right: -100px; 
+transition: 0.3s; 
+padding: 15px; 
+width: 100px; 
+font-size: 20px; 
+color: goldenrod;
+border-radius: 0 5px 5px 0;
+}
+
+.Uk:hover {
+    right: 0;
+}
+
+.Ui {
+position: absolute;
+  text-decoration:none;
+right: -100px; 
+transition: 0.3s; 
+padding: 15px; 
+width: 100px; 
+font-size: 20px; 
+color: goldenrod;
+border-radius: 0 5px 5px 0;
+}
+
+.Ui:hover {
+    right: 0;
+}
+
+.Ue {
+position: absolute;
+  text-decoration:none;
+right: -100px; 
+transition: 0.3s; 
+padding: 15px; 
+width: 100px; 
+font-size: 20px; 
+color: goldenrod;
+border-radius: 0 5px 5px 0;
+}
+
+.Ue:hover {
+    right: 0;
+}
+
+.Ui {
+    top: 80px;
+ background-color: saddlebrown;
+}
+
+.Ue {
+     top: 140px;
+ background-color: saddlebrown;
+}
+
+.Uk {
+    top: 200px;
+background-color: saddlebrown;
+}
