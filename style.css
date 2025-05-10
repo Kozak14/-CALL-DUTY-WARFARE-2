@@ -25,17 +25,10 @@ footer {
     background-color: burlywood;
 }
 
-dav {
-    background-color: saddlebrown;
-    border-right: 2000px solid saddlebrown;
-    border-top: 8px solid saddlebrown ;
-    border-bottom: 25px solid saddlebrown ;
-}
-
 f {
     font-size: 25px;
-    color: saddlebrown;
-    background-color: black;
+    color: burlywood;
+    background-color: saddlebrown;
     border-radius: 20px;
 }
 
